@@ -43,10 +43,10 @@ The DNS firewall is powered by Threat Intelligence.
 Data privacy features will help store your critical data encrypted and remain encrypted in transit.
 The encryption and decryption private key will be handled by API on demand and it will not be stored in the client machine.In the near future we will make auto data sync to storage in the cloud as a backup solution.We will ensure the data will be encrypted in both states i.e static and transit.
 
-Client Agent WorkFlow diagram is shown below,
+#### Client Agent WorkFlow diagram is shown below,
 <p align="center" ><img src="https://dimabusiness.com/git-image/Diagram.jpg" width="800"></p> 
 
-Threat Intelligence OpenAPI Architecture for example,
+#### Threat Intelligence OpenAPI Architecture for example,
 
 <p align="center" ><img src="https://dimabusiness.com/git-image/API.jpg" width="700"></p> 
 
