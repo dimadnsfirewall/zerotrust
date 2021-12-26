@@ -46,3 +46,7 @@ The encryption and decryption private key will be handled by API on demand and i
 Client Agent WorkFlow diagram is shown below,
 <p align="center" ><img src="https://dimabusiness.com/git-image/Diagram.jpg" width="800"></p> 
 
+Threat Intelligence OpenAPI Architecture for example,
+
+<p align="center" ><img src="https://dimabusiness.com/git-image/API.jpg" width="700"></p> 
+
