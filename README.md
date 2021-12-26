@@ -26,3 +26,23 @@ Our Client Agent Software will look like the below,
 
 <p align="center" ><img src="https://dimabusiness.com/git-image/DimaTS.JPG" width="400"></p> 
 
+Overall the Architecture is built, based on Zero Trust.
+
+Threat Intelligence API is designed in the OpenAPI way so that it can inherit 3rd party Threat Intelligence service providers, so that we can achieve accurate threat detection/analysis.
+
+We have 4 use cases in Client Software.Live protection,Internet Access,Online Privacy and Data Privacy.
+
+Live protection is an AntiVirus agent powered by Threat Intelligence.
+
+Internet Access makes your internet traffic to be processed via Secure Web Gateway hosted in a public cloud supported by DNS Firewall.
+
+Online privacy is a VPN , makes your internet traffic to be processed via VPN access server hosted in a public cloud supported by DNS Firewall.
+
+The DNS firewall is powered by Threat Intelligence.
+
+Data privacy features will help store your critical data encrypted and remain encrypted in transit.
+The encryption and decryption private key will be handled by API on demand and it will not be stored in the client machine.In the near future we will make auto data sync to storage in the cloud as a backup solution.We will ensure the data will be encrypted in both states i.e static and transit.
+
+Client Agent WorkFlow diagram is shown below,
+<p align="center" ><img src="https://dimabusiness.com/git-image/Diagram.jpg" width="400"></p> 
+
