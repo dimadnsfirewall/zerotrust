@@ -22,7 +22,7 @@ For the VPN access server (Open VPN), we use Ubuntu 20.
 
 Programming Languages/Framework/Web Server used are Python,Shell,Django,NGINX and Kivy for client software agents.
 
-Our Client Agent Software will look like the below,
+#Our Client Agent Software will look like the below,
 
 <p align="center" ><img src="https://dimabusiness.com/git-image/DimaTS.JPG" width="600"></p> 
 
