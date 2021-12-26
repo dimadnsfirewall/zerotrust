@@ -24,7 +24,7 @@ Programming Languages/Framework/Web Server used are Python,Shell,Django,NGINX an
 
 Our Client Agent Software will look like the below,
 
-<p align="center" ><img src="https://dimabusiness.com/git-image/DimaTS.JPG" width="400"></p> 
+<p align="center" ><img src="https://dimabusiness.com/git-image/DimaTS.JPG" width="600"></p> 
 
 Overall the Architecture is built, based on Zero Trust.
 
